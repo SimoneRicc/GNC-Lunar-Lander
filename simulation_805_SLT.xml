@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/simulinktest_harness_cache/R2023a">
+  <simulinktest_harness_cache.Cache type="simulinktest_harness_cache.Cache" uuid="0c2ae9f3-b211-40d7-b41c-4e3633f54709">
+    <inputHierarchyVector type="simulinktest_harness_cache.IOHierarchy" uuid="879295d1-9b1d-4f68-8c5a-e9ac2b55d227">
+      <busType>BUSTYPE_NOT_BUS</busType>
+      <dataType>double</dataType>
+      <facadeName>comZ</facadeName>
+      <isDataPort>true</isDataPort>
+    </inputHierarchyVector>
+    <inputHierarchyVector type="simulinktest_harness_cache.IOHierarchy" uuid="91928b79-e4d9-46cb-82be-25edc79c862c">
+      <busType>BUSTYPE_NOT_BUS</busType>
+      <dataType>double</dataType>
+      <facadeName>F</facadeName>
+      <isDataPort>true</isDataPort>
+      <name>Force</name>
+    </inputHierarchyVector>
+    <outputHierarchyVector type="simulinktest_harness_cache.IOHierarchy" uuid="d9ed5c83-ad68-4ae7-9166-f215173ba6ae">
+      <busType>BUSTYPE_NOT_BUS</busType>
+      <dataType>double</dataType>
+      <facadeName>torque_mis</facadeName>
+      <isDataPort>true</isDataPort>
+      <name>torque_mis</name>
+    </outputHierarchyVector>
+    <usedVars>AAFJTQAAAAAOAAAAKAAAAAYAAAAIAAAAAQAAAAAAAAAFAAAACAAAAAAAAAAAAAAAAQAAAAAAAAA=</usedVars>
+  </simulinktest_harness_cache.Cache>
+</MF0>

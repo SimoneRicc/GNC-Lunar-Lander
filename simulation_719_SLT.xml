@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/simulinktest_harness_cache/R2023a">
+  <simulinktest_harness_cache.Cache type="simulinktest_harness_cache.Cache" uuid="097d57df-3f12-427e-9e8d-3f052c761f08">
+    <inputHierarchyVector type="simulinktest_harness_cache.IOHierarchy" uuid="a12a6ce6-757a-49e5-a9c0-ac592f36de2d">
+      <busType>BUSTYPE_NOT_BUS</busType>
+      <dataType>double</dataType>
+      <facadeName>f*</facadeName>
+      <isDataPort>true</isDataPort>
+    </inputHierarchyVector>
+    <inputHierarchyVector type="simulinktest_harness_cache.IOHierarchy" uuid="e38126e3-fc68-4f66-adc1-da7a482ebee7">
+      <busType>BUSTYPE_NOT_BUS</busType>
+      <dataType>double</dataType>
+      <facadeName>q</facadeName>
+      <isDataPort>true</isDataPort>
+      <name>Quaternion</name>
+    </inputHierarchyVector>
+    <inputHierarchyVector type="simulinktest_harness_cache.IOHierarchy" uuid="31cf34af-26f8-4706-9d72-5cf859aa799f">
+      <busType>BUSTYPE_NOT_BUS</busType>
+      <dataType>double</dataType>
+      <facadeName>CoMtot</facadeName>
+      <isDataPort>true</isDataPort>
+      <name>COMtot</name>
+    </inputHierarchyVector>
+    <outputHierarchyVector type="simulinktest_harness_cache.IOHierarchy" uuid="fe14876f-32a5-495b-af27-c8fecc9abcc5">
+      <busType>BUSTYPE_NOT_BUS</busType>
+      <dataType>double</dataType>
+      <facadeName>f_inertial</facadeName>
+      <isDataPort>true</isDataPort>
+      <name>f_inertial</name>
+    </outputHierarchyVector>
+    <outputHierarchyVector type="simulinktest_harness_cache.IOHierarchy" uuid="bbeafef6-c4b0-4140-9271-efcdeeb243ee">
+      <busType>BUSTYPE_NOT_BUS</busType>
+      <dataType>double</dataType>
+      <facadeName>mprop_bruned</facadeName>
+      <isDataPort>true</isDataPort>
+    </outputHierarchyVector>
+    <outputHierarchyVector type="simulinktest_harness_cache.IOHierarchy" uuid="030ea89a-7e3b-41b3-b00c-d6b6a872513f">
+      <busType>BUSTYPE_NOT_BUS</busType>
+      <dataType>double</dataType>
+      <facadeName>Misal. Torque</facadeName>
+      <isDataPort>true</isDataPort>
+      <name>torque_mis</name>
+    </outputHierarchyVector>
+    <usedVars>AAFJTQAAAAAOAAAAKAAAAAYAAAAIAAAAAQAAAAAAAAAFAAAACAAAAAAAAAAAAAAAAQAAAAAAAAA=</usedVars>
+  </simulinktest_harness_cache.Cache>
+</MF0>

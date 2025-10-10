@@ -1,0 +1,34 @@
+
+Creating a new model from the contents of Atomic Subsystem "MATLAB Function".
+
+New Model File:C:\Users\simon\Desktop\GNC Lander\sldv_output\MATLABFunction0\MATLABFunction0.slx
+
+02-Sep-2025 13:06:57
+Checking compatibility for test generation: model 'MATLABFunction0'
+Compiling model...done
+Building model representation...done
+
+02-Sep-2025 13:07:06
+'simulation/Main Engine/MATLAB Function' is compatible for test generation with Simulink Design Verifier.
+
+
+Generating tests using model representation from 02-Sep-2025 13:07:06...
+
+SATISFIED
+MATLAB Function
+function torque_mis = fcn(comZ, F) executed
+Analysis Time = 00:00:07
+
+
+02-Sep-2025 13:07:16
+
+Completed normally.
+
+Generating output files:
+
+02-Sep-2025 13:07:20
+Results generation completed.
+
+    Data file:
+    C:\Users\simon\Desktop\GNC Lander\sldv_output\MATLABFunction0\MATLABFunction0_sldvdata.mat
+
